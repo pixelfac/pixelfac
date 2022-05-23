@@ -11,8 +11,8 @@ My name is **Nathan Harris**, a software developer and student at the University
 
 [![](https://img.shields.io/badge/Unity-Pants%2C%20Fire%2C%20Anvil-orange?logo=unity&logoColor=white)](https://github.com/pixelfac/PantsFireAnvil-Dev)
 [![](https://img.shields.io/badge/Minecraft-Mine%20in%20Abyss-green?logo=minecraft&logoColor=white)](https://github.com/mineinabyss)
-[![](https://img.shields.io/badge/Discord%20Bot-Askan-%235865F2?logo=discord&logoColor=white)](https://github.com/pixelfac/Askan-discord-bot)
-[![](https://img.shields.io/badge/Unity-GraphLinker-%232490D7?logo=unity&logoColor=white)](https://github.com/pixelfac/GraphLinker)
+[![](https://img.shields.io/badge/React-ScheduGator-%235865F2?logo=react&logoColor=white)](https://github.com/C2H2-UF/ScheduGator)
+[![](https://img.shields.io/badge/Unity-Chalk-%232490D7?logo=unity&logoColor=white)](https://github.com/pixelfac/Chalk)
 
 ## Skills
 
