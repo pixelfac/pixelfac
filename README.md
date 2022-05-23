@@ -1,6 +1,6 @@
 ## Heyo 👋
 
-My name is Nathan Harris, a software developer and student at the University of Florida! I am doing a combined Bachelors/Masters program in Computer Science, as well as a Linguistics Minor. *PixelFactory* is a handle that I've been using online for years which would explain my GitHub name.
+My name is **Nathan Harris**, a software developer and student at the University of Florida! I am doing a combined Bachelors/Masters program in Computer Science, as well as a Linguistics Minor. *PixelFactory* is a handle that I've been using online for years which explains my GitHub name.
 
 ## Socials
 
