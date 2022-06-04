@@ -46,7 +46,7 @@ I can say 'squirrel' in 26 different languages. All of these I have learned from
 :flag_it: Scoiattolo
 :flag_gr: Σκίουρος
 :flag_il: סנאי
-:flag_br: Esquilo
+:flag_br:/:flag_pt: Esquilo
 :flag_jp: りす
 :flag_pl: Wiewiórka
 :flag_ph: Ardilya
