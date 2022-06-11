@@ -35,7 +35,7 @@ My name is **Nathan Harris**, a software developer and student at the University
 
 ## Fun Fact
 
-I can say 'squirrel' in 26 different languages. All of these I have learned from people I've met online and in person. If you know squirrel in a language other than English, then DM me on discord and we can talk about language! 😄
+I can say 'squirrel' in 28 different languages. All of these I have learned from people I've met online and in person. If you know squirrel in a language other than English, then DM me on discord and we can talk about language! 😄
 
 ```
 :flag_gb: Squirrel
@@ -63,19 +63,6 @@ I can say 'squirrel' in 26 different languages. All of these I have learned from
 :flag_se: Ekorre
 :scotland: Feòrag
 :flag_es: Esquirol (Catalan)
+:flag_ua: Білка
+:flag_tr: Sihorîk (Kurmanji)
 ```
-
-<!--
-**pixelfac/pixelfac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
