@@ -65,4 +65,6 @@ I can say 'squirrel' in 28 different languages. All of these I have learned from
 :flag_es: Esquirol (Catalan)
 :flag_ua: Білка
 :flag_tr: Sihorîk (Kurmanji)
+:flag_ng: Kurege (Hausa)
+:flag_in: गिलहरी (Hindi)
 ```
