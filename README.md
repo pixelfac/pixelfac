@@ -61,7 +61,7 @@ I can say 'squirrel' in 28 different languages. All of these I have learned from
 :flag_in: ఉడుత (Telugu)
 :flag_tr: Sincap
 :flag_se: Ekorre
-:scotland: Feòrag
+:scotland: Feòrag (Scottish Gaelic)
 :flag_es: Esquirol (Catalan)
 :flag_ua: Білка
 :flag_tr: Sihorîk (Kurmanji)
