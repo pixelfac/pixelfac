@@ -67,4 +67,5 @@ I can say 'squirrel' in 30 different languages. All of these I have learned from
 :flag_tr: Sihorîk (Kurmanji)
 :flag_ng: Kurege (Hausa)
 :flag_in: गिलहरी (Hindi)
+:flag_id: Tupai
 ```
