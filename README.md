@@ -35,7 +35,7 @@ My name is **Nathan Harris**, a software developer and student at the University
 
 ## Fun Fact 🐿
 
-I can say 'squirrel' in 32 different languages. All of these I have learned from people I've met online and in person. If you know squirrel in a language other than English, then DM me on discord and we can talk about language! 😄
+I can say 'squirrel' in 34 different languages. All of these I have learned from people I've met online and in person. If you know squirrel in a language other than English, then DM me on discord and we can talk about language! 😄
 
 ```
 :flag_gb: Squirrel
@@ -69,4 +69,6 @@ I can say 'squirrel' in 32 different languages. All of these I have learned from
 :flag_in: गिलहरी (Hindi)
 :flag_id: Tupai
 :flag_nz: Kirera (Maori)
+:flag_ir: سنجاب
+:flag_sk: veverička
 ```
