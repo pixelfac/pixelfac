@@ -70,5 +70,6 @@ I can say 'squirrel' in 34 different languages. All of these I have learned from
 :flag_id: Tupai
 :flag_nz: Kirera (Maori)
 :flag_ir: سنجاب
-:flag_sk: veverička
+:flag_sk: Veverička
+:flag_dk: Egern
 ```
