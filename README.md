@@ -75,5 +75,5 @@ I can say 'squirrel' in 39 different languages. All of these I have learned from
 :flag_es: Urtxintxa (Basque)
 :flag_cz: Veverka
 :flag_cn: ནགས་བྱི། (Tibetan)
-::flag_hr: Vjeverica
+:flag_hr: Vjeverica
 ```
