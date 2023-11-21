@@ -90,4 +90,5 @@ I can say 'squirrel' in 54 different languages. All of these I have learned from
 :flag_is: íkorni
 :flag_ke: Chindi
 :flag_al: Ketër
+:flag_et: ሽኮኮ (Amharic)
 ```
