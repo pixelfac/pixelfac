@@ -92,4 +92,6 @@ I can say 'squirrel' in 56 different languages. All of these I have learned from
 :flag_al: Ketër
 :flag_et: ሽኮኮ (Amharic)
 :flag_in: அனில் (Tamil)
+:flag_bg: kataritsa
+:flag_es: esquirol (Catalan)
 ```
